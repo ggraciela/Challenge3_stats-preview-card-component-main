@@ -37,6 +37,7 @@ html {
     background-color: hsl(258, 74%, 48%);
     opacity: 40%;
     -webkit-filter: saturate(5);
+    
 }
 
 div {

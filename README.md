@@ -7,6 +7,7 @@
 * Media query ( scalability )
 
 <br />
+
 ### Screenshot of final result:
 <img width="1440" alt="Final desktop stats-preview-card-component-main" src="https://user-images.githubusercontent.com/94437215/145973284-9323d9de-5a08-4d87-b037-8dee964a899a.png">
 

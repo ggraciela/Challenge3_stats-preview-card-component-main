@@ -1,7 +1,10 @@
 # About
-3rd practice project [HTML / CSS] from FrontEnd Mentor
+3rd FrontEnd Mentor reverse engineering challenge 
 
-
+* HTML
+* CSS
+* CSS grid
+* Media query ( scalability )
 
 <br />
 ### Screenshot of final result:
